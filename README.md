@@ -35,7 +35,7 @@ Quick Start
 - In your debug method, eg. `AActor::DisplayDebug()` call `<graph_instance>::AddDataPoint(float)` and `<graphplotter_instance>::Plot(UCanvas, FGp_Graph)`
 to plot debug data to the screen.
 
-See [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1174) to see how _GraphPlotter_ can be added to _Unreal Tournament_.
+Check [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1174) to see how _GraphPlotter_ can be added to _Unreal Tournament_.
 
 Help
 -----
