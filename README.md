@@ -21,12 +21,12 @@ Features
 
 Resources
 ---
-* [Blog Post](???)    
+* [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1174)    
 
 Quick Start
 ------------------
 
-- Clone repository (or extract [zip package](???)) to any location in your project's `Source` folder
+- Clone repository (or extract [zip package](https://github.com/bartlomiejwolk/GraphPlotter/archive/master.zip)) to any location in your project's `Source` folder
 - Add _GraphPlotter_ module to `.uproject` file
 - Add _GraphPlotter_ module to your game project  `.Target.cs` file
 - Add _GraphPlotter_ module to your game module `.build.cs` file
@@ -35,7 +35,7 @@ Quick Start
 - In your debug method, eg. `AActor::DisplayDebug()` call `<graph_instance>::AddDataPoint(float)` and `<graphplotter_instance>::Plot(UCanvas, FGp_Graph)`
 to plot debug data to the screen.
 
-See [Blog Post](???) to see how _GraphPlotter_ can be added to _Unreal Tournament_.
+See [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1174) to see how _GraphPlotter_ can be added to _Unreal Tournament_.
 
 Help
 -----
