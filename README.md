@@ -56,3 +56,5 @@ Example: `v0.2.3f1`
 - `2` Major release. Adds new features.
 - `3` Minor release. Bug fixes and refactoring.
 - `f1` Quick fix.
+
+[Semantic Versioning Specification](http://semver.org/)
