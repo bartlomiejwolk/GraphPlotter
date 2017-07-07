@@ -5,7 +5,7 @@ Use it to plot debug graphs to the screen.
 
 Licensed under MIT license. See LICENSE file in the project root.
 
-![AnimationPath Tools](/Resources/cover_screenshot.png?raw=true "UE4 GraphPlotter graphs in Unreal Tournament")
+![GraphPlotter cover screenshot](/Resources/cover_screenshot.png?raw=true "UE4 GraphPlotter graphs in Unreal Tournament")
 
 Features
 --------
