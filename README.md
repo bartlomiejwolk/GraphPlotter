@@ -21,7 +21,7 @@ Features
 
 Resources
 ---
-* [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1174)    
+* [Blog Post](https://bartlomiejwolk.wordpress.com/2017/06/29/ue4-graphplotter-module/)    
 
 Quick Start
 ------------------
@@ -35,7 +35,7 @@ Quick Start
 - In your debug method, eg. `AActor::DisplayDebug()` call `<graph_instance>::AddDataPoint(float)` and `<graphplotter_instance>::Plot(UCanvas, FGp_Graph)`
 to plot debug data to the screen.
 
-Check [Blog Post](https://wordpress.com/post/bartlomiejwolk.wordpress.com/1174) to see how _GraphPlotter_ can be added to _Unreal Tournament_.
+Check [Blog Post](https://bartlomiejwolk.wordpress.com/2017/06/29/ue4-graphplotter-module/) to see how _GraphPlotter_ can be added to _Unreal Tournament_.
 
 Help
 -----
